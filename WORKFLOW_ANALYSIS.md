@@ -10,7 +10,7 @@ A pull request gives developers a chance to review changes before adding them to
 
 ## 3. Why are code reviews important?
 
-Code reviews help catch mistakes before code becomes part of the main project. They also allow developers to give feedback and learn from each other. A reviewer can check whether the code works correctly, follows the project requirements, and is easy for other developers to understand.
+Code reviews help catch mistakes before code becomes part of the main project. They also allow developers to give feedback and learn from each other. A reviewer can check whether the code works correctly, follows the project requirements, and is easy for other developers to understand. This review process can improve the quality of the final project.
 
 ## 4. How did GitHub Actions help with this project?
 
